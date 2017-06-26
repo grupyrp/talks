@@ -7,6 +7,7 @@
 
 | Palestrante | Slides |
 | --- | --- |
+| [Jonatas Baldin](https://twitter.com/jonatasbaldin) | [Em terra de Serverless, quem usa Zappa é rei!](https://speakerdeck.com/jonatasbaldin/em-terra-de-serverless-quem-usa-zappa-e-rei) |
 
 ## Caipyra 2016
 
