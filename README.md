@@ -8,7 +8,7 @@
 | Palestrante | Slides |
 | --- | --- |
 | [Jonatas Baldin](https://twitter.com/jonatasbaldin) | [Em terra de Serverless, quem usa Zappa é rei!](https://speakerdeck.com/jonatasbaldin/em-terra-de-serverless-quem-usa-zappa-e-rei) |
-
+| [Bruno rocha](http://twitter.com/rochacbruno) | [A Qualidade do Ecossistema Python](http://brunorocha.org/slides/the-quality-of-the-python-ecosystem.html) |
 ## Caipyra 2016
 
 ### Palestras
