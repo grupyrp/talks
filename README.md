@@ -10,6 +10,7 @@
 | [Daniela Petruzalek](https://www.linkedin.com/in/petruzalek/) | [Big Data com Apache Spark na Globo.com](https://www.slideshare.net/DanielaPetruzalek/big-data-com-apache-spark-na-globocom) |
 | [Jonatas Baldin](https://twitter.com/jonatasbaldin) | [Em terra de Serverless, quem usa Zappa é rei!](https://speakerdeck.com/jonatasbaldin/em-terra-de-serverless-quem-usa-zappa-e-rei) |
 | [Bruno rocha](http://twitter.com/rochacbruno) | [A Qualidade do Ecossistema Python](http://brunorocha.org/slides/the-quality-of-the-python-ecosystem.html) |
+| [Osvaldo Santana Neto](http://twitter.com/osantana) | [Plataforma distribuída de Microserviços ou, como a Olist funciona](http://brunorocha.org/slides/the-quality-of-the-python-ecosystem.htm://www.slideshare.net/osantana/plataforma-distribuda-de-microservios-ou-como-a-olist-funciona) |
 ## Caipyra 2016
 
 ### Palestras
