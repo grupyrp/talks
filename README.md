@@ -1,5 +1,11 @@
 # Apresentações
 
+## 2022
+
+| Evento | Data | Palestrante | Palestra | Slides | Vídeo |
+| --- | --- | --- | --- | --- | --- |
+| Meetup | 29/04 | Thiago Ferreira | Testes de carga (load tests) com Python e Locust.io | - | [Link](https://www.youtube.com/watch?v=ud3uA8KeHnk) |
+
 ## 2021
 
 | Evento | Data | Palestrante | Palestra | Slides | Vídeo |
@@ -29,9 +35,9 @@
 
 | Evento | Data | Palestrante | Palestra | Slides | Vídeo |
 | --- | --- | --- | --- | --- | --- |
-| Meetup | 16/05 | - | BDD com python | - | - |
+| Meetup | 16/05 | Thiago Ferreira | BDD com python | - | - |
 | Meetup | 04/06 | Barbara Moraes Vicente | Usando selenium para interagir na web | - | - |
-| Meetup | 11/07 | - | CI/CD: Obtendo qualidade de vida para o time de desenvolvimento | - | - |
+| Meetup | 11/07 | Thiago Ferreira | CI/CD: Obtendo qualidade de vida para o time de desenvolvimento | - | - |
 | Meetup | 07/11 | Brendan Collins | Introdução a Datashader: A visualização dos dados grandes | - | - |
 | Meetup | 07/11 | André Girol | Git init - O que vc precisa saber pra começar | - | - |
 | Meetup | 21/11 | Danilo Martins | Combinando morsas e cobras - Walrus Operator no Python 3.8 | - | - |
